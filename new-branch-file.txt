@@ -1,2 +1,1 @@
-New Branch file only shows up in the new-branch
-Duh!!
+New Branch file shows up in both new-branch and main
